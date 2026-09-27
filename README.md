@@ -19,6 +19,3 @@ Element Household Register — Nuclear & chemical dossier collection for all 118
 | 打包文件请到 [Releases](https://github.com/GoldTrichloride/element-dossier/releases) 页面获取。 | Grab the packaged archive in the [Releases](https://github.com/GoldTrichloride/element-dossier/releases) page. |
 | ## 后续计划 | ## Roadmap |
 | 分批次补齐剩余全部元素的户口簿档案，持续发布新版本。 | Add remaining element dossiers batch by batch in future releases. |
-
-
-![Preview of Element Household Register](dossier-cards/001-H/card-base.png)
