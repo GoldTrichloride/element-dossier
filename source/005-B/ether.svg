@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 123.46 29.08">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        isolation: isolate;
+      }
+
+      .st1 {
+        fill: #ff0d0d;
+        font-family: STIXTwoText-Regular, 'STIX Two Text';
+        font-size: 10.48px;
+      }
+    </style>
+  </defs>
+  <polygon points="19.13 16.04 39.94 4.02 39.94 4.57 39.94 5.12 19.6 16.86 19.36 16.45 19.13 16.04"/>
+  <polygon points="39.94 4.02 55.73 13.13 55.49 13.55 55.25 13.96 39.94 5.12 39.94 4.57 39.94 4.02"/>
+  <g class="st0">
+    <text class="st1" transform="translate(56.44 20.69)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="65.31 13.13 81.1 4.02 81.1 4.57 81.1 5.12 65.78 13.96 65.54 13.55 65.31 13.13"/>
+  <polygon points="81.1 4.02 101.91 16.04 101.67 16.45 101.44 16.86 81.1 5.12 81.1 4.57 81.1 4.02"/>
+</svg>
