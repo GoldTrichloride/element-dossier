@@ -1,10 +1,10 @@
 | 中文 | English |
 | ---- | ---- |
 | ## 项目简介 | ## Project Overview |
-| 本项目为每种化学元素制作可视化档案卡片，收录核性质、化学特性、反应路径与同位素相关信息。使用Adobe Illustrator绘制，导出PNG成品用于浏览查阅。 | This project builds detailed visual dossier cards for every chemical element, including nuclear properties, chemical behaviours, reaction pathways and isotope information. Cards are drawn in Adobe Illustrator, exported as clean PNG for reading. |
+| 本项目为每种化学元素制作可视化档案卡片，收录相关化学方程式，包含反应物、生成物与反应条件中的有机、无机结构式，使用Adobe Illustrator绘制，导出PNG成品用于浏览查阅。 | This project builds detailed visual dossier cards for every chemical element, including relevant chemical equations, with organic and inorganic structural formulas for reactants, products and reaction conditions. Cards are drawn in Adobe Illustrator, exported as clean PNG for reading. |
 | ## 目录结构 | ## Folder Structure |
 | - `dossier-cards/` - 成品PNG元素户口簿卡片<br>- `source/` - Adobe Illustrator工程源文件（.ai）、KingDraw结构式源文件（.kdx）与SVG矢量图 | - `dossier-cards/` - Finished PNG preview cards of element household registers<br>- `source/` - Adobe Illustrator `.ai` source files, KingDraw `.kdx` structure source files and SVG vector graphics |
-| ## 已完成元素（v20260930） | ## Completed Elements (v20260930) |
+| ## 已完成元素（v1.0.1） | ## Completed Elements (v1.0.1) |
 | 氢、氦、锂、铍、硼、氟、钠、钒、铑、氙、铈、铀、𬬻 | H, He, Li, Be, B, F, Na, V, Rh, Xe, Ce, U, Rf |
 | ## 开源协议 | ## License |
 | 采用 **CC BY-SA 4.0** 协议开源<br>你可以自由分享、修改、二次创作；需要标注原作者，衍生作品必须使用相同协议开源。 | Licensed under **CC BY-SA 4.0**<br>You are free to share, adapt and remix, as long as you give credit and release derivative works under the same license. |
