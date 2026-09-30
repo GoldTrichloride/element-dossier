@@ -1,11 +1,18 @@
+# Element Dossier
+# 元素户口簿
+
+![Element Dossier Progress Chart](Progress.png)
+> 色块标记：已完成档案的元素；空白格子：待制作
+> Color legend: Colored cells = finished dossiers; blank cells = pending
+
 | 中文 | English |
 | ---- | ---- |
 | ## 项目简介 | ## Project Overview |
 | 本项目为每种化学元素制作可视化档案卡片，收录相关化学方程式，包含反应物、生成物与反应条件中的有机、无机结构式，使用Adobe Illustrator绘制，导出PNG成品用于浏览查阅。 | This project builds detailed visual dossier cards for every chemical element, including relevant chemical equations, with organic and inorganic structural formulas for reactants, products and reaction conditions. Cards are drawn in Adobe Illustrator, exported as clean PNG for reading. |
 | ## 目录结构 | ## Folder Structure |
 | - `dossier-cards/` - 成品PNG元素户口簿卡片<br>- `source/` - Adobe Illustrator工程源文件（.ai）、KingDraw结构式源文件（.kdx）与SVG矢量图 | - `dossier-cards/` - Finished PNG preview cards of element household registers<br>- `source/` - Adobe Illustrator `.ai` source files, KingDraw `.kdx` structure source files and SVG vector graphics |
-| ## 已完成元素（v1.0.1） | ## Completed Elements (v1.0.1) |
-| 氢、氦、锂、铍、硼、氟、钠、钒、铑、氙、铈、铀、𬬻 | H, He, Li, Be, B, F, Na, V, Rh, Xe, Ce, U, Rf |
+| ## 完成进度 | ## Progress |
+| 已完成元素：13 / 118 | Completed elements: 13 / 118 |
 | ## 开源协议 | ## License |
 | 采用 **CC BY-SA 4.0** 协议开源<br>你可以自由分享、修改、二次创作；需要标注原作者，衍生作品必须使用相同协议开源。 | Licensed under **CC BY-SA 4.0**<br>You are free to share, adapt and remix, as long as you give credit and release derivative works under the same license. |
 | ## 下载 | ## Download |
