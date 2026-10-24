@@ -12,7 +12,7 @@
 | ## 目录结构 | ## Folder Structure |
 | - `dossier-cards/` - 成品PNG元素户口簿卡片<br>- `source/` - Adobe Illustrator工程源文件（.ai）、KingDraw结构式源文件（.kdx）与SVG矢量图 | - `dossier-cards/` - Finished PNG preview cards of element household registers<br>- `source/` - Adobe Illustrator `.ai` source files, KingDraw `.kdx` structure source files and SVG vector graphics |
 | ## 完成进度 | ## Progress |
-| 已完成元素：15 / 118 | Completed elements: 15 / 118 |
+| 已完成元素：19 / 118 | Completed elements: 19 / 118 |
 | ## 开源协议 | ## License |
 | 采用 **CC BY-SA 4.0** 协议开源<br>你可以自由分享、修改、二次创作；需要标注原作者，衍生作品必须使用相同协议开源。 | Licensed under **CC BY-SA 4.0**<br>You are free to share, adapt and remix, as long as you give credit and release derivative works under the same license. |
 | ## 下载 | ## Download |
