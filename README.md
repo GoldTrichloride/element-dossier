@@ -1,6 +1,6 @@
 # Element Dossier
 # 元素户口簿
-![Cover](png/000-cover/000-cover.png)
+![Cover](dossier-cards/000-cover/000-cover.png)
 
 ![Element Dossier Progress Chart](Progress.png)
 > 色块标记：已完成档案的元素；空白格子：待制作
