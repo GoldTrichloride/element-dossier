@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 266.53 68.57">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 3.63;
+        stroke-width: 1.07px;
+      }
+
+      .st1 {
+        font-size: 23.59px;
+      }
+
+      .st1, .st2 {
+        font-family: STIXTwoText-Italic, 'STIX Two Text';
+        font-style: italic;
+      }
+
+      .st1, .st2, .st3, .st4 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        font-size: 20px;
+      }
+
+      .st4 {
+        fill: #1dc51d;
+        font-family: STIXTwoText-Regular, 'STIX Two Text';
+        font-size: 11.8px;
+      }
+    </style>
+  </defs>
+  <polygon points="66.25 13.97 83.04 23.66 82.77 24.13 82.5 24.59 66.25 15.21 66.25 14.59 66.25 13.97"/>
+  <g class="st3">
+    <text class="st4" transform="translate(83.84 32.6)"><tspan x="0" y="0">Cl</tspan></text>
+  </g>
+  <polygon points="42.81 27.5 66.25 13.97 66.25 14.59 66.25 15.21 43.35 28.43 43.08 27.96 42.81 27.5"/>
+  <polygon points="44.42 30.28 65.98 17.83 66.25 18.29 66.51 18.76 44.95 31.21 44.69 30.74 44.42 30.28"/>
+  <g class="st3">
+    <text class="st1" transform="translate(15.52 33.85)"><tspan x="0" y="0">n</tspan></text>
+  </g>
+  <line class="st0" x1="103.65" y1="25.92" x2="162.39" y2="25.92"/>
+  <polygon points="171.48 25.92 160.78 23.25 162.39 25.92 160.78 28.6 171.48 25.92"/>
+  <g class="st3">
+    <text class="st2" transform="translate(237.39 41.86)"><tspan x="0" y="0">n</tspan></text>
+  </g>
+  <line class="st0" x1="183.58" y1="5.14" x2="187.55" y2="5.14"/>
+  <line class="st0" x1="184.12" y1="5.14" x2="184.12" y2="39.44"/>
+  <line class="st0" x1="183.58" y1="39.44" x2="187.55" y2="39.44"/>
+  <line class="st0" x1="232.1" y1="5.14" x2="228.14" y2="5.14"/>
+  <line class="st0" x1="231.57" y1="5.14" x2="231.57" y2="39.44"/>
+  <line class="st0" x1="232.1" y1="39.44" x2="228.14" y2="39.44"/>
+  <polygon points="172.93 27.5 196.36 13.97 196.36 14.59 196.36 15.21 173.46 28.43 173.2 27.96 172.93 27.5"/>
+  <polygon points="196.36 13.97 219.53 27.34 219.53 27.96 218.99 28.27 196.36 15.21 196.36 14.59 196.36 13.97"/>
+  <polygon points="219.53 27.34 242.43 14.12 242.69 14.59 242.96 15.05 220.06 28.27 219.53 27.96 219.53 27.34"/>
+  <polygon points="220.06 28.27 220.07 48.86 219.54 48.86 219 48.86 218.99 28.27 219.53 27.96 220.06 28.27"/>
+  <g class="st3">
+    <text class="st4" transform="translate(213.96 59.35)"><tspan x="0" y="0">Cl</tspan></text>
+  </g>
+</svg>
