@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 131.87 98.44">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #ff0d0d;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        font-family: STIXTwoText-Regular, 'STIX Two Text';
+        font-size: 12.14px;
+      }
+
+      .st2 {
+        fill: #c39517;
+      }
+    </style>
+  </defs>
+  <polygon points="12.39 42.21 36.77 28.14 36.77 28.77 36.77 29.41 13.49 42.85 12.94 42.53 12.39 42.21"/>
+  <polygon points="36.77 28.14 60.61 41.9 60.61 42.53 60.06 42.85 36.77 29.41 36.77 28.77 36.77 28.14"/>
+  <polygon points="37.05 32.11 57.58 43.96 57.31 44.44 57.03 44.92 36.5 33.06 36.77 32.58 37.05 32.11"/>
+  <polygon points="61.16 42.85 61.16 70.37 60.61 70.06 60.06 69.74 60.06 42.85 60.61 42.53 61.16 42.85"/>
+  <polygon points="61.16 70.37 36.77 84.45 36.77 83.82 36.77 83.18 60.06 69.74 60.61 70.06 61.16 70.37"/>
+  <polygon points="57.58 68.63 37.05 80.48 36.77 80 36.5 79.53 57.03 67.67 57.31 68.15 57.58 68.63"/>
+  <polygon points="36.77 84.45 12.39 70.37 12.94 70.06 13.49 69.74 36.77 83.18 36.77 83.82 36.77 84.45"/>
+  <polygon points="12.39 70.37 12.39 42.21 12.94 42.53 13.49 42.85 13.49 69.74 12.94 70.06 12.39 70.37"/>
+  <polygon points="15.69 68.15 15.69 44.44 16.24 44.44 16.79 44.44 16.79 68.15 16.24 68.15 15.69 68.15"/>
+  <polygon points="60.61 41.9 79.69 30.87 79.96 31.35 80.24 31.82 61.16 42.85 60.61 42.53 60.61 41.9"/>
+  <g class="st1">
+    <text class="st2" transform="translate(81.07 33.54)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+  <polygon points="88.64 25.7 102.52 17.69 102.79 18.17 103.07 18.64 89.19 26.65 88.92 26.18 88.64 25.7"/>
+  <g class="st1">
+    <text class="st0" transform="translate(103.89 19.77)"><tspan x="0" y="0">O</tspan></text>
+    <text class="st0" transform="translate(112.66 19.77)"><tspan x="0" y="0">H</tspan></text>
+  </g>
+  <polygon points="79.06 23.84 72.25 12.05 72.73 11.77 73.2 11.5 80.01 23.29 79.53 23.56 79.06 23.84"/>
+  <polygon points="81.92 22.19 75.11 10.4 75.59 10.12 76.06 9.85 82.87 21.64 82.39 21.91 81.92 22.19"/>
+  <g class="st1">
+    <text class="st0" transform="translate(66.3 9.7)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="89.82 33.68 96.63 45.47 96.15 45.75 95.68 46.02 88.87 34.23 89.35 33.96 89.82 33.68"/>
+  <polygon points="86.96 35.34 93.77 47.12 93.29 47.4 92.82 47.68 86.01 35.89 86.49 35.61 86.96 35.34"/>
+  <g class="st1">
+    <text class="st0" transform="translate(93.82 57.37)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+</svg>

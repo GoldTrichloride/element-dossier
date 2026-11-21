@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 166.79 72.51">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #ff0d0d;
+        stroke-miterlimit: 3.65;
+        stroke-width: .86px;
+      }
+
+      .st1 {
+        fill: #ff0d0d;
+      }
+
+      .st1, .st2 {
+        font-family: STIXTwoText-Regular, 'STIX Two Text';
+        font-size: 11.86px;
+      }
+
+      .st1, .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: #c39517;
+      }
+    </style>
+  </defs>
+  <g class="st3">
+    <text class="st2" transform="translate(38.4 36.36)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+  <polygon points="46.07 31.16 64.21 31.16 64.21 31.7 64.21 32.23 46.07 32.23 46.07 31.7 46.07 31.16"/>
+  <g class="st3">
+    <text class="st2" transform="translate(65.28 36.36)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+  <polygon points="72.95 31.16 91.09 31.16 91.09 31.7 91.09 32.23 72.95 32.23 72.95 31.7 72.95 31.16"/>
+  <g class="st3">
+    <text class="st2" transform="translate(92.17 36.36)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+  <polygon points="99.84 31.16 117.98 31.16 117.98 31.7 117.98 32.23 99.84 32.23 99.84 31.7 99.84 31.16"/>
+  <g class="st3">
+    <text class="st2" transform="translate(119.05 36.36)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+  <polygon points="37.32 33.85 20.17 33.85 20.17 33.31 20.17 32.77 37.32 32.77 37.32 33.31 37.32 33.85"/>
+  <polygon points="37.32 30.62 20.17 30.62 20.17 30.08 20.17 29.55 37.32 29.55 37.32 30.08 37.32 30.62"/>
+  <g class="st3">
+    <text class="st1" transform="translate(10.53 36.36)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="126.72 29.55 143.88 29.55 143.88 30.08 143.88 30.62 126.72 30.62 126.72 30.08 126.72 29.55"/>
+  <polygon points="126.72 32.77 143.88 32.77 143.88 33.31 143.88 33.85 126.72 33.85 126.72 33.31 126.72 32.77"/>
+  <g class="st3">
+    <text class="st1" transform="translate(144.95 36.36)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="120.2 25.81 120.2 10.69 120.74 10.69 121.27 10.69 121.27 25.81 120.74 25.81 120.2 25.81"/>
+  <polygon points="123.43 25.81 123.43 10.69 123.96 10.69 124.5 10.69 124.5 25.81 123.96 25.81 123.43 25.81"/>
+  <g class="st3">
+    <text class="st1" transform="translate(118.07 9.48)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="39.54 25.81 39.54 10.69 40.08 10.69 40.62 10.69 40.62 25.81 40.08 25.81 39.54 25.81"/>
+  <polygon points="42.77 25.81 42.77 10.69 43.31 10.69 43.85 10.69 43.85 25.81 43.31 25.81 42.77 25.81"/>
+  <g class="st3">
+    <text class="st1" transform="translate(37.42 9.48)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="42.23 37.58 42.23 52.7 41.7 52.7 41.16 52.7 41.16 37.58 41.7 37.58 42.23 37.58"/>
+  <g class="st3">
+    <text class="st1" transform="translate(37.42 63.24)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="122.89 37.58 122.89 52.7 122.35 52.7 121.81 52.7 121.81 37.58 122.35 37.58 122.89 37.58"/>
+  <g class="st3">
+    <text class="st1" transform="translate(118.07 63.24)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <line class="st0" x1="45.59" y1="52.44" x2="50.07" y2="52.44"/>
+  <line class="st0" x1="126.25" y1="52.44" x2="130.73" y2="52.44"/>
+</svg>

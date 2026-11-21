@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 97.12 72.51">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #ff0d0d;
+      }
+
+      .st0, .st1 {
+        font-family: STIXTwoText-Regular, 'STIX Two Text';
+        font-size: 11.86px;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st1 {
+        fill: #c39517;
+      }
+    </style>
+  </defs>
+  <g class="st2">
+    <text class="st1" transform="translate(43.89 36.36)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+  <polygon points="45.04 25.81 45.04 10.69 45.58 10.69 46.12 10.69 46.12 25.81 45.58 25.81 45.04 25.81"/>
+  <polygon points="48.27 25.81 48.27 10.69 48.81 10.69 49.34 10.69 49.34 25.81 48.81 25.81 48.27 25.81"/>
+  <g class="st2">
+    <text class="st0" transform="translate(42.91 9.47)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <polygon points="51.56 31.16 68.72 31.16 68.72 31.69 68.72 32.23 51.56 32.23 51.56 31.69 51.56 31.16"/>
+  <g class="st2">
+    <text class="st0" transform="translate(69.8 36.36)"><tspan x="0" y="0">O</tspan></text>
+    <text class="st0" transform="translate(78.36 36.36)"><tspan x="0" y="0">H</tspan></text>
+  </g>
+  <polygon points="42.82 32.23 25.66 32.23 25.66 31.69 25.66 31.16 42.82 31.16 42.82 31.69 42.82 32.23"/>
+  <g class="st2">
+    <text class="st0" transform="translate(7.47 36.36)"><tspan x="0" y="0">H</tspan></text>
+    <text class="st0" transform="translate(16.03 36.36)"><tspan x="0" y="0">O</tspan></text>
+  </g>
+  <g class="st2">
+    <text class="st1" transform="translate(43.89 63.24)"><tspan x="0" y="0">S</tspan></text>
+  </g>
+  <polygon points="49.34 37.58 49.34 52.7 48.81 52.7 48.27 52.7 48.27 37.58 48.81 37.58 49.34 37.58"/>
+  <polygon points="46.12 37.58 46.12 52.7 45.58 52.7 45.04 52.7 45.04 37.58 45.58 37.58 46.12 37.58"/>
+</svg>
